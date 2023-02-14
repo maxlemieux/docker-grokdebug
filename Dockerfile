@@ -1,4 +1,4 @@
-FROM ruby:2.4.1-alpine3.6
+FROM ruby:2-alpine
 
 ENV GROK_DIR=/opt/grokdebug
 ENV GIT_COMMIT=7e108f4b0469adebea158ab68956f84b273629b6
